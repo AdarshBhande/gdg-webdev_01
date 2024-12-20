@@ -1,0 +1,45 @@
+*
+{
+    margin:auto;
+    padding: 0%;
+}
+
+#navbar
+{
+    background-color:black;
+    color:white;
+    padding: 20px;
+    margin-bottom:px;
+    font-size: 30px;
+    align-items: center;
+    
+
+}
+a
+{
+color:white;
+padding:20px;
+text-transform: uppercase;
+text-decoration: none;
+
+
+}
+
+.details{
+    text-align: center;
+    font-size: 28px;
+    text-decoration: none;
+    margin-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.details2
+{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+ 
+marquee
+{
+    font-size: 30px;
+}
